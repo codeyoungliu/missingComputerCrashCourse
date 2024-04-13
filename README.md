@@ -1,0 +1,2 @@
+# missingComputerCrashCourse
+写给高中毕业生的计算机和信息素养基础课
