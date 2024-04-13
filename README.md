@@ -18,6 +18,7 @@
 * [固态硬盘和机械硬盘的区别](https://www.bilibili.com/video/BV1c54y1u73K/?spm_id_from=333.337.search-card.all.click)
 * [内存和硬盘区别](https://github.com/mzdluo123/SurfingTutorial/blob/master/chap1/ram_disk.md)
 * [常见的文件格式和打开方式]
+* [(计算机专业)计算机科学速成课](https://www.bilibili.com/video/BV1EW411u7th/)
 
 ### 计算机的基本使用
 * [寻找和安装软件的方式和注意事项]
